@@ -8,7 +8,7 @@ Aplicação web para reserva de quartos em hotel.
 - Reserva online com verificação de disponibilidade
 - Painel admin para gestão de quartos, reservas e atividades
 - Registro de atividades com filtro e carregamento progressivo
-
+  
 ### Tecnologias usadas
 - PHP + MySQL + PDO
 - Bootstrap 5 + Font Awesome
